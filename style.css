@@ -1,0 +1,75 @@
+body{
+  background-image: url(http://images2.fanpop.com/images/photos/6900000/Space-Art-Wallpaper-space-6997700-1920-1200.jpg);
+  background-position: center ;background-size: cover/ ;
+  width: 50%;
+  margin: auto;
+  font-family: 'Roboto', sans-serif;
+}
+main{
+width: 50%
+margin:auto;
+padding-top: 20px;
+
+}
+#logo{
+  vertical-align: middle;
+}
+#logo-name{
+  text-transform: uppercase;
+  color: white;
+  font-size: 70%;
+}
+h1{
+  color: white;
+  font-size: 130%;
+}
+
+
+.mail{
+  width: 678px;
+height: 5px;
+margin: auto;
+padding:20px;
+background-color: lightgrey;
+border: 2px solid black;
+border-width: thin;
+font-weight: bolder;
+text-align: left;
+}
+.mail.non{
+  background-color: white;
+}
+.text{
+  color: grey;
+  }
+
+
+#numero
+{
+  background-color: orange;
+  width: 50px;
+  height: 50px;
+  margin: 20px;
+  border: 9px solid orange;
+  border-radius: 50%;
+  font-size: 24px;
+  font-weight: bolder;
+  text-align: center;
+  color: white;
+}
+  h3{
+    color: white;
+    text-align: center;
+    font-size: 12px
+  }
+
+  #numer{
+    color: white;
+    border: 10px solid black;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+
+
+
+  }
